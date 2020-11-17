@@ -1,0 +1,104 @@
+body{
+    margin: 0px auto;
+        width: 100%;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+nav ul li{
+ list-style-type:none;
+    float :left;
+    padding-right: 2.5em;
+    color:white
+
+}
+nav ul{
+    
+    float :right;
+    width: 90%;
+}
+nav {
+    width: 160%;
+    height: 50px;
+    background-color: chocolate;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+section{
+    
+    background-color:#9ddfd3;
+}
+.home{
+    background-color: cadetblue;
+    text-align: center;
+   font-size: 35px;
+    display: table;
+    padding: 160px;
+    width:90%;
+ 
+    height: 160%;
+}
+.home img{
+    width: 250px;
+    height: auto;
+}
+.about{
+    background-color: gold;
+    display: table;
+    width: 160%;
+    height: 100vh;
+}
+.education{
+    background-color: peachpuff;
+    display: table;
+    width: 160%;
+        height:100vh;
+}
+.education .inner{
+    padding: 50%:
+}
+.education h1{
+    font-size: 50px;
+    }
+.education .inner div{
+    width:30%;
+    margin-left: 5px;
+    margin-left: 5px;
+    float: left;
+    }
+.skills{
+    background-color: burlywood;
+    display: table;
+    width: 160%;
+    height: 100vh;
+}
+.skills h1{
+    font-size: 40px;
+}
+.skills .inner{
+text-align: center;
+}
+.hobbies{
+    background-color: orange;
+    display:table;
+    width: 160%;
+    height: 100vh;    }
+.hobbies h1{ font-size:40px; }
+.hobbies .inner{
+    text-align: center;
+}
+
+.contact{
+    background-color: deepskyblue;
+    display: table;
+    width: 160%;
+    height: 100vh;
+}
+.contact h1{
+    font-size: 40px;
+}
+.contact .inner{
+    text-align: center;
+}
